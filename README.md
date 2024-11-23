@@ -141,7 +141,5 @@ If you still face issues running the shortcut without admin rights, use Task Sch
 - Use Task Scheduler if a shortcut alone does not suffice for your setup.
 - Ensure Python and the script paths are correctly specified in the shortcut or Task Scheduler.
 
-## Contact
 
-For any issues or questions, feel free to reach out for additional support.
 
